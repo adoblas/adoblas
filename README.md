@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a graduate in computer science (UPM) and a passionated CICD developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am a graduate in computer science (UPM) and a passionate DevOps <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
 - 🔭 I’m working as a Software Engineer and pushing guidelines to CICD principles in Invofox.
 - 🌱 Exploring Cloud and AI new waves.
-- ⚡ In my free time I read tech articles and enjoy fam company.
+- ⚡ In my free time, I read tech articles and enjoy fam company.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-adoblas-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adoblas)
 
 ---
