@@ -65,12 +65,3 @@ I am a graduate in computer science (UPM) and a passionate DevOps <img src="http
 </p>
 
 ---
-
-### 🔥 &nbsp; My Stats :
-<p align="center">
-<p>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=adoblas&date_format=j%20M%5B%20Y%5D&card_width=1000">
-<div align="center">
-  <a href="https://github.com/adoblas"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adoblas&layout=compact" width="41%"> <img src="https://github-readme-stats.vercel.app/api?username=adoblas&rank_icon=github" width="52%"></a>
-</div>
-</p>
